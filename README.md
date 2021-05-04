@@ -24,7 +24,7 @@ The Outcomes Based on Lauch Date chart depict successful, failed and canceled th
 The chart that shows the Outcomes Based on Goals is stating the percentage of the successful, failed, canceled theatrical productions in terms of pledge goals.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](./Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](./Resources/Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 Initially, the challenge wasn't difficult to comprehend.  There were quite a few step-by-step instructions on how to chart and graph the necessary data.  The difficulty for me is to really understand what data to chart, how this is of value and am I really answering the question that was posed in the beginning of this challenge?  If the instructions weren't already provided for me on 'what' to put into the chart, how would I know what to do?  I would expect that practice on data analysis will help mature my knowledge of how, what and why.  It's been a good challenge though, as I've been exposed to Github/Gitlab/VB.  I've already learned quite a bit in this first week and excited to learn much more with additional challenges in the weeks ahead.
